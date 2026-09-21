@@ -1,59 +1,121 @@
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" />
-    <h1 align="center">Hi 👋, I'm Victor Fernandez Escriva</h1>
-    <h3 align="center">A passionate web fullstack developer from Spain. I'm passionate about technology and programming. I specialize in web and mobile application development, and I'm always looking for new challenges and interesting projects to work on. In my free time, I enjoy experimenting with different programming technologies and tools to enhance my skills and knowledge. </h3>
+<div align="center">
+
+# Hi, I'm Victor Fernandez Escriva 👋
+
+### Embedded Software Engineer | Aerospace & Telematics Engineer 🚀
+
+Building reliable software for complex systems, with a growing focus on
+**Embedded Systems · Space Software · Artificial Intelligence · Systems Programming**
+
 </div>
 
 ---
 
-### 👨‍💻 About Me :
+## 👨‍💻 About Me
 
-- 📝 I studied Network Enginnering & Aerospace Engineering at 📌UPC
+* 🚀 **Embedded Software Engineer** working on critical software for space systems
+* 🎓 Double-degree background in **Aerospace Engineering & Telematics Engineering**
+* 💻 Mainly working with **C, Python, Linux and embedded systems**
+* 🛰️ Interested in **space software, distributed systems, networking and low-level engineering**
+* 🤖 Currently studying **Machine Learning, Deep Learning and LLMs**
+* 🧠 I enjoy understanding how systems work internally rather than just using them
+* 🔬 Building personal projects and experiments around **AI, software infrastructure and engineering tools**
+* 📍 Barcelona, Spain
+* 📫 **[victorfe13@gmail.com](mailto:victorfe13@gmail.com)**
 
-- 📫 How to reach me **victorfe13@gmail.com**
+---
 
-- 🌱 I’m currently learning about **Artificial Intelligence**
+## 🛠️ Tech Stack
 
+### Core Languages
 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="42" height="42"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" width="42" height="42"/>
+</p>
 
-<div align="left">
-    <h3>🔨 Languages and Tools:</h3>
-<div>
-    <!-- Web Development -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-    <!-- Programming Languages -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-    <!-- Mobile Development -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
-    <!-- Databases -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MariaDB" alt="MariaDB" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
-    <!-- Tools -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-    <!-- Networking Tools (Custom Icons) -->
-    <!-- No official devicons available for Iperf, Jperf, Wireshark, and OpenSSL. You might consider custom icons or text labels for these. -->
-</div>
-   
+### Systems & Engineering
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="42" height="42"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" title="CMake" width="42" height="42"/>
+</p>
+
+### AI & Scientific Computing
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" title="MATLAB" width="42" height="42"/>
+</p>
+
+### Web & Applications
+
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" width="42" height="42"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" width="42" height="42"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="42" height="42"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="42" height="42"/>
+</p>
+
+---
+
+## 🔭 What I'm Exploring
+
+```text
+Embedded & Space Software
+├── Real-time and critical systems
+├── Flight software
+├── Fault detection & recovery
+└── Software architecture
+
+Artificial Intelligence
+├── Machine Learning
+├── Neural Networks
+├── Transformers
+└── LLMs from first principles
+
+Systems Engineering
+├── Linux
+├── Networking
+├── Distributed Systems
+└── High-performance software
+```
+
+---
+
+## 🚀 Current Projects
+
+I'm currently building and experimenting with projects around:
+
+* 🤖 **Artificial Intelligence & LLMs**
+* 🛰️ **Engineering software and knowledge systems**
+* ⚙️ **Systems programming**
+* 🌐 **Networking & distributed systems**
+* 🧪 **Technical prototypes and product ideas**
+
+Check out my pinned repositories below ↓
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=VictorFernandezEscriva&theme=dark&hide_border=true" />
+
 </div>
 
 ---
 
-### 📊 My Stats :
+<div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VictorFernandezEscriva&theme=highcontrast)](https://git.io/streak-stats)
+### Always learning. Always building. 🚀
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorFernandezEscriva&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFernandezEscriva&theme=tokyonight)](https://github.com/VictorFernandezEscriva/github-readme-stats)
+</div>
