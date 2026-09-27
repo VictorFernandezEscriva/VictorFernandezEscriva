@@ -2,10 +2,10 @@
 
 # Hi, I'm Victor Fernandez Escriva 👋
 
-### Embedded Software Engineer | Aerospace & Telematics Engineer 🚀
+### Embedded Software Engineer | Aerospace & Telecommunications Engineer 🚀
 
-Building reliable software for complex systems, with a growing focus on
-**Embedded Systems · Space Software · Artificial Intelligence · Systems Programming**
+Building software for **space systems** while developing deeper expertise in  
+**Machine Learning · Deep Learning · LLMs · AI Engineering**
 
 </div>
 
@@ -14,12 +14,13 @@ Building reliable software for complex systems, with a growing focus on
 ## 👨‍💻 About Me
 
 * 🚀 **Embedded Software Engineer** working on critical software for space systems
-* 🎓 Double-degree background in **Aerospace Engineering & Telematics Engineering**
-* 💻 Mainly working with **C, Python, Linux and embedded systems**
-* 🛰️ Interested in **space software, distributed systems, networking and low-level engineering**
-* 🤖 Currently studying **Machine Learning, Deep Learning and LLMs**
-* 🧠 I enjoy understanding how systems work internally rather than just using them
-* 🔬 Building personal projects and experiments around **AI, software infrastructure and engineering tools**
+* 🎓 Double-degree background in **Aerospace Engineering & Telecommunications Engineering**
+* 💻 Professional experience mainly with **C, Python, Linux and embedded software**
+* 🛰️ Working with concepts and tooling around **flight software, telemetry & commands, FDIR, NASA cFS and software verification**
+* 🧪 Previous engineering experience at **SEAT** and **UPC**, working with Python and C
+* 🌐 Built a team-based full-stack platform using **TypeScript, Node.js, React, React Native and Angular**
+* 🤖 Currently studying **Machine Learning, Deep Learning, PyTorch, Transformers and LLMs**
+* 🔬 Building practical projects to move from software engineering fundamentals toward **AI Engineering**
 * 📍 Barcelona, Spain
 * 📫 **[victorfe13@gmail.com](mailto:victorfe13@gmail.com)**
 
@@ -32,7 +33,8 @@ Building reliable software for complex systems, with a growing focus on
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="42" height="42"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="42" height="42"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="42" height="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" width="42" height="42"/>
 </p>
 
@@ -45,62 +47,91 @@ Building reliable software for complex systems, with a growing focus on
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" title="CMake" width="42" height="42"/>
 </p>
 
-### AI & Scientific Computing
+### AI & Machine Learning
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" width="42" height="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" width="42" height="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" title="MATLAB" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" title="scikit-learn" width="42" height="42"/>
 </p>
 
 ### Web & Applications
 
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="42" height="42"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" width="42" height="42"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" width="42" height="42"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" width="42" height="42"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="42" height="42"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="42" height="42"/>
 </p>
 
 ---
 
-## 🔭 What I'm Exploring
+## 🚀 Selected Projects
+
+### 🤖 AI Engineering Lab
+
+A hands-on repository where I'm building my AI knowledge progressively through runnable experiments and documentation.
+
+Current work includes:
+
+* Decision trees and supervised learning fundamentals
+* Overfitting and generalization
+* PyTorch neural networks
+* Tokenization and LLM fundamentals
+* Local model inference
+* Deep Learning and Transformer foundations
+
+The goal is to understand how modern AI systems work beyond simply consuming high-level APIs.
+
+### 🌐 LPlan
+
+A multi-client full-stack platform developed as a five-person engineering project.
+
+The repository contains:
+
+* **React + TypeScript** web application
+* **React Native + Expo** mobile application
+* **Angular** administration backoffice
+* **Node.js + Express + MongoDB** backend
+* A second backend redesigned using **hexagonal architecture**
+
+The original Git histories from the five repositories were preserved when the project was consolidated into a monorepo.
+
+My contributions include work across backend, web, mobile and backoffice features such as feeds, discovery, social interactions, chat, calendars, QR functionality and backend integration.
+
+---
+
+## 🔭 Currently Exploring
 
 ```text
-Embedded & Space Software
-├── Real-time and critical systems
-├── Flight software
-├── Fault detection & recovery
-└── Software architecture
-
-Artificial Intelligence
+AI Engineering
 ├── Machine Learning
-├── Neural Networks
+├── Deep Learning
+├── PyTorch
 ├── Transformers
-└── LLMs from first principles
+├── LLMs
+└── Local AI systems
 
-Systems Engineering
+Software Engineering
+├── Embedded C
 ├── Linux
-├── Networking
-├── Distributed Systems
-└── High-performance software
+├── Critical software
+├── Flight software
+├── Software architecture
+└── Verification & reliability
 ```
 
 ---
 
-## 🚀 Current Projects
+## 🎯 Current Direction
 
-I'm currently building and experimenting with projects around:
+My background is primarily in **embedded and critical software engineering**, particularly in the space domain.
 
-* 🤖 **Artificial Intelligence & LLMs**
-* 🛰️ **Engineering software and knowledge systems**
-* ⚙️ **Systems programming**
-* 🌐 **Networking & distributed systems**
-* 🧪 **Technical prototypes and product ideas**
+I'm now expanding that foundation toward **AI Engineering**, with a focus on understanding and implementing the underlying concepts behind machine learning, neural networks, Transformers and LLM-based systems.
 
-Check out my pinned repositories below ↓
+Rather than treating AI as a separate discipline, my goal is to combine it with strong software engineering fundamentals.
 
 ---
 
@@ -116,6 +147,6 @@ Check out my pinned repositories below ↓
 
 <div align="center">
 
-### Always learning. Always building. 🚀
+### Software Engineering · Space Systems · AI Engineering 🚀
 
 </div>
