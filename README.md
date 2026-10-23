@@ -22,7 +22,7 @@ Building software for **space systems** while developing deeper expertise in
 * 🤖 Currently studying **Machine Learning, Deep Learning, PyTorch, Transformers and LLMs**
 * 🔬 Building practical projects to move from software engineering fundamentals toward **AI Engineering**
 * 📍 Barcelona, Spain
-* 📫 **[victorfe13@gmail.com](mailto:victorfe13@gmail.com)**
+* 📫 **[victorfe13@gmail.com](mailto:victorfe13@gmail.com)** | www.linkedin.com/in/víctor-fernández-escrivá-8a9bab19b
 
 ---
 
